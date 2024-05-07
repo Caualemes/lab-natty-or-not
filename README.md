@@ -10,5 +10,5 @@ Funções Avatares e Clonar Voz, da plataforma Vidnoz
 Enviando uma faixa de audio, uma foto e um script, a IA fez sua mágica
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Vídeo disponível no repositório
 
